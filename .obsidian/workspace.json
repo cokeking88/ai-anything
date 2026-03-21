@@ -196,6 +196,7 @@
   },
   "active": "8bc5401df62c097b",
   "lastOpenFiles": [
+    "information_theory_demo.py",
     "calculus_optimization_demo.py",
     "distribution_demo.py",
     "probability_demo.py",
@@ -221,7 +222,6 @@
     "阶段3_深度学习进阶/神经网络基础.md",
     "阶段2_机器学习核心/阶段2_概述.md",
     "阶段2_机器学习核心/监督学习详解.md",
-    "阶段6_专项深入",
     "未命名.canvas",
     "未命名.md",
     "欢迎.md"
