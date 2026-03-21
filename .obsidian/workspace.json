@@ -196,6 +196,7 @@
   },
   "active": "8bc5401df62c097b",
   "lastOpenFiles": [
+    "matrix_operations_demo.py",
     "cross_product_demo.py",
     "dot_product_visualization.png",
     "dot_product_demo.py",
@@ -223,7 +224,6 @@
     "阶段1_基础准备",
     "未命名.canvas",
     "未命名.md",
-    "欢迎.md",
-    "未命名.base"
+    "欢迎.md"
   ]
 }
