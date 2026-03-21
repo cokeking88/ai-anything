@@ -194,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9346df6c28fbdc4",
+  "active": "8bc5401df62c097b",
   "lastOpenFiles": [
+    "cross_product_demo.py",
     "dot_product_visualization.png",
     "dot_product_demo.py",
     "test_vectors_matrices.py",
