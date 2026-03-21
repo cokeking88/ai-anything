@@ -196,6 +196,7 @@
   },
   "active": "8bc5401df62c097b",
   "lastOpenFiles": [
+    "eigenvalue_demo.py",
     "matrix_operations_demo.py",
     "cross_product_demo.py",
     "dot_product_visualization.png",
@@ -221,7 +222,6 @@
     "阶段4_大模型应用",
     "阶段3_深度学习进阶",
     "阶段2_机器学习核心",
-    "阶段1_基础准备",
     "未命名.canvas",
     "未命名.md",
     "欢迎.md"
